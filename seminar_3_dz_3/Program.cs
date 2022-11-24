@@ -12,4 +12,4 @@ while (c <= n)
 {
     Console.WriteLine(c*c*c);
     c++;
-}
+} 
